@@ -82,7 +82,7 @@ Dillinger is currently extended with the following plugins
 * Dropbox
 * Github
 * Google Drive
-* OneDrive
+* OneDrivetwo
 
 Readmes, how to use them in your own application can be found here:
 
