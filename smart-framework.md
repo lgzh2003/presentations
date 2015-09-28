@@ -4,7 +4,7 @@
 ### 1.Introduce
 ##### What is SMART
 Smart provides a lightweight Java web framework and some libraries (plugins and modules). The framework includes [IOC](https://en.wikipedia.org/wiki/International_Olympic_Committee), [AOP](https://en.wikipedia.org/wiki/Advanced_oxidation_process), [DAO](http://www.webopedia.com/TERM/D/DAO.html), [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping),[MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) technologies, and the plugins can enhance to the framework and the modules can be reuseful for any other applications. Smart can improve your work efficiency and make your development easy.   
-![Smart Framework](https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/12072756_138854319801123_9045864182747712832_n.jpg?oh=2f6ebc6b1e72842094bbf4e269fde6ff&oe=565DB39F)
+![Smart Framework](http://static.oschina.net/uploads/space/2013/1008/122053_f8sG_223750.png)
 - IOC   
 
 IOC (Inversion of control) is a general parent term while DI (Dependency injection) is a subset of IOC. IOC is a concept where the flow of application is inverted. So for example rather than the caller calling the method. Hide Copy Code.
