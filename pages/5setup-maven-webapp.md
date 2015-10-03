@@ -2,11 +2,11 @@
 
 1. Maven webapp：File>New>Maven Project>Next Archetype, choose maven-archetype-webapp,go next,fill in tables，finish      
 
- ![setup1](/images/setup1.png)
+ ![setup1](/images/setup1.png)           
 
 2. Consummate the src catalog：      
 
-![setup2](/images/setup2.png)
+![setup2](/images/setup2.png)        
 
 3. Add configuration:
 ```sh
@@ -23,7 +23,8 @@
 ```
 4. Right key click project item, update catalog: Maven>Update Project.Then, in Properties>Project Facets，change Dynamic Web Module into 3.0、Java into 1.6、choose Runtimes: Tomcat7.0      
 
-![setup3](/images/setup3.png)
+![setup3](/images/setup3.png)          
+
 
 5. Servlet testing：Bulid HelloMavenWebappServlet based on Servlet3.0, deploy the project on to Tomcat7, and run http://localhost:8080/HelloMaven/helloMavenWebapp,it will shows Get:/helloMavenWebapp
 ```sh
