@@ -2,8 +2,10 @@
 
 
 ### Chapter 1: Introduce To Smart Frame work
--[What is SMART] <https://github.com/lgzh2003/presentations/pages/>
--[Why is SMART]<https://github.com/lgzh2003/presentations/pages>
+
+-<a href="/pages/1what-smart.md">What is SMART</a> 
+
+-<a href="/pages/2why-smart.md">Why is SMART</a> 
 
 
 ### Chapter 2: Getting Started
