@@ -22,7 +22,7 @@
 
 - m2e plugin integration: Integrate Maven into Eclipse, and make it visualized.       
 
-##### Set up Maven Webapp
+##### 3.Set up Maven Webapp
 
 - Maven webapp：File>New>Maven Project>Next Archetype, choose maven-archetype-webapp,go next,fill in tables，finish      
 
