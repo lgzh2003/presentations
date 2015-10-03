@@ -2,18 +2,18 @@
 
 
 ### Chapter 1: Introduce To Smart Frame work
-*[What is SMART] <https://github.com/lgzh2003/presentations/pages/>
-*[Why is SMART]<https://github.com/lgzh2003/presentations/pages>
+-[What is SMART] <https://github.com/lgzh2003/presentations/pages/>
+-[Why is SMART]<https://github.com/lgzh2003/presentations/pages>
 
 
 ### Chapter 2: Getting Started
-*[Start a Maven Web Project]<https://github.com/lgzh2003/presentations/pages/3create-project>    
+-<a href="/pages/3create-project.md">Start a Maven Web Project</a>   
 
-*[Write Enity Class]<https://github.com/lgzh2003/presentations/pages/4entity-class> 
+-<a href="/pages/4entity-class.md">Write Enity Class</a>
 
-*[Write Service Interface and Implementation]<https://github.com/lgzh2003/presentations/pages/5write-service> 
+-<a href="/pages/5write-service.md">Write Service Interface and Implementation</a>
 
-*[Write Action Class And View]<https://github.com/lgzh2003/presentations/pages/6write-action-view> 
+-<a href="/pages/6write-action-view.md">Write Action Class And View</a>
 
 ### Chapter3.Demo
 - Smart Sample：http://git.oschina.net/huangyong/smart-sample
