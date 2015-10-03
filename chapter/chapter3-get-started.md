@@ -1,4 +1,4 @@
-### Chapt 2: Getting Started
+### Chapt 3: Getting Started
 #####1. Create a Maven Web Project    
 The directory structure of the whole project are as follows:
 ```sh
