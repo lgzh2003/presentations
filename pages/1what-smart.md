@@ -1,6 +1,6 @@
 ### Chapter 1: Introduce To Smart Frame work-part 1    
 ##### What is SMART      
-<a href="/smart-framework.md"> Main page </a>  <a href="/pages/2why-smart.md">| Next page</a>     
+<a href="/smart-framework.md"> Main page </a>  |<a href="/pages/2why-smart.md">  Next page</a>     
 
 Smart provides a lightweight Java web framework and some libraries (plugins and modules). The framework includes [IOC](https://en.wikipedia.org/wiki/International_Olympic_Committee), [AOP](https://en.wikipedia.org/wiki/Advanced_oxidation_process), [DAO](http://www.webopedia.com/TERM/D/DAO.html), [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping),[MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) technologies, and the plugins can enhance to the framework and the modules can be reuseful for any other applications. Smart can improve your work efficiency and make your development easy.   
 ![Smart Framework](http://static.oschina.net/uploads/space/2013/1008/122053_f8sG_223750.png)
@@ -22,5 +22,6 @@ MVC (Model View Controller) is one of three ASP.NET programming models. MVC is a
 applications using a MVC design: The Model represents the application core (for instance a list of database records). The View displays the data (the database records).       
       
            
-           
-<a href="/smart-framework.md"> Main page </a>  <a href="/pages/2why-smart.md">| Next page</a>   
+             
+               
+<a href="/smart-framework.md"> Main page </a>  |<a href="/pages/2why-smart.md">  Next page</a> 
