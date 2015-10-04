@@ -21,3 +21,7 @@ protected String entityName(Class<T> entityClass)
 		return entityName;
 	}
 ```
+     
+          
+          
+<a href="smart-framework.md"> Main page </a> <a href="/pages/6create-project.md">| Previous page </a> <a href="/pages/8write-service.md">| Next page</a>       
