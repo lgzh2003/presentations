@@ -1,4 +1,6 @@
-### Chapt 3: Getting Started
+### Chapt 3: Getting Started     
+<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter2-preparation.md">| Previous page </a>      
+
 #####1. Create a Maven Web Project    
 The directory structure of the whole project are as follows:
 ```sh
