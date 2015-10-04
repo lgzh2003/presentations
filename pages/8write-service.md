@@ -1,6 +1,6 @@
-### Chapter 3: Demo-part 3
+### Chapter 3: Let's Try-part 3
 #####5.Write Service Interface and Implementation      
-<a href="/smart-framework.md"> Main page </a> <a href="/pages/7entity-class.md">| Previous page </a> <a href="/pages/9write-action-view.md">| Next page</a>     
+<a href="/smart-framework.md"> Main page </a> | <a href="/pages/7entity-class.md">  Previous page </a> |<a href="/pages/9write-action-view.md">  Next page</a>     
 
 - Service Interface
 ```sh
@@ -60,4 +60,4 @@ public class UserServiceImpl implements UserService {
       
             
                
-<a href="/smart-framework.md"> Main page </a> <a href="/pages/7entity-class.md">| Previous page </a> <a href="/pages/9write-action-view.md">| Next page</a>
+<a href="/smart-framework.md"> Main page </a> <a href="/pages/7entity-class.md"> Previous page </a> |<a href="/pages/9write-action-view.md"> Next page</a>
