@@ -1,5 +1,5 @@
-### Chapt 2: Preparation     
-<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter1-introduce.md">  Previous page </a> |<a href="/chapter/chapter3-get-started.md">  Next page</a>      
+### Chapter 2: Preparation and deployment  
+<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter1-introduce.md">  Previous chapter </a> |<a href="/chapter/chapter3-get-started.md">  Next chapter</a>      
 
 ##### 1.Maven Installment
 
