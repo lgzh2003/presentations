@@ -1,5 +1,6 @@
-# Smart Framework
+# Smart Framework     
 
+<a href="/smart-framework.md">Main page </a> | <a href="/chapter/chapter1-introduce.md">  Next page</a>
 
 ### Chapter 1: Introduce To Smart Frame work
 
@@ -21,7 +22,9 @@
 
 - <a href="/pages/8write-service.md">Write Service Interface and Implementation</a>
 
-- <a href="/pages/9write-action-view.md">Write Action Class And View</a>
+- <a href="/pages/9write-action-view.md">Write Action Class And View</a>      
+    
+
 
      
      
