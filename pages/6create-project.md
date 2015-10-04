@@ -1,4 +1,6 @@
-#####1. Create a Maven Web Project    
+#####1. Create a Maven Web Project      
+<a href="smart-framework.md"> Main page </a> <a href="/pages/5setup-maven-webapp.md">| Previous page </a> <a href="/pages/7entity-class.md">| Next page</a>   
+
 The directory structure of the whole project are as follows:
 ```sh
 smart-sample/
@@ -36,3 +38,7 @@ smart.framework.jdbc.url=jdbc:mysql://localhost:3306/smart-sample
 smart.framework.jdbc.username=root
 smart.framework.jdbc.password=root
 ```
+      
+              
+                
+<a href="smart-framework.md"> Main page </a> <a href="/pages/5setup-maven-webapp.md">| Previous page </a> <a href="/pages/7entity-class.md">| Next page</a>   
