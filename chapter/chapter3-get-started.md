@@ -1,4 +1,4 @@
-### Chapt 3: Getting Started     
+### Chapt 3: Let's try    
 <a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter2-preparation.md">  Previous page </a>      
 
 #####1. Create a Maven Web Project    
