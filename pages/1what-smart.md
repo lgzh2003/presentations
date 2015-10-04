@@ -1,4 +1,4 @@
-### Chapter 1: Introduce To Smart Frame work     
+### Chapter 1: Introduce To Smart Frame work-part 1    
 ##### What is SMART      
 <a href="smart-framework.md"> Main page </a>  <a href="/pages/2why-smart.md">| Next page</a>     
 
