@@ -1,4 +1,6 @@
-#####5.Write Service Interface and Implementation
+#####5.Write Service Interface and Implementation      
+<a href="smart-framework.md"> Main page </a> <a href="/pages/7entity-class.md">| Previous page </a> <a href="/pages/9write-action-view.md">| Next page</a>     
+
 - Service Interface
 ```sh
 package org.smart4j.sample.service;
@@ -54,3 +56,7 @@ public class UserServiceImpl implements UserService {
     }
 }
 ```
+      
+            
+               
+<a href="smart-framework.md"> Main page </a> <a href="/pages/7entity-class.md">| Previous page </a> <a href="/pages/9write-action-view.md">| Next page</a>
