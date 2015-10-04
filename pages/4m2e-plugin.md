@@ -6,6 +6,10 @@
 
 ![m2e](/images/m2e1.png)       
 
-- m2e plugin integration: Integrate Maven into Eclipse, and make it visualized.
+- m2e plugin integration: Integrate Maven into Eclipse, and make it visualized.      
+       
+         
+       
+<a href="smart-framework.md"> Main page </a> <a href="/pages/3maven.md">| Previous page </a> <a href="/pages/5setup-maven-webapp.md">| Next page</a>
 
 
