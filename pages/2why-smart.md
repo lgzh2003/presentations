@@ -15,4 +15,4 @@
      
       
         
-<a href="smart-framework.md"> Main page </a> <a href="/pages/1what-smart.md">| Previous page </a> <a href="/pages/4m2e-plugin.md">| Next page</a>   
+<a href="smart-framework.md"> Main page </a> <a href="/pages/1what-smart.md">| Previous page </a> <a href="/pages/3maven.md">| Next page</a>   
