@@ -7,7 +7,7 @@
 
 - <a href="/pages/2why-smart.md">Why is SMART</a> 
 
-### Chapter 2: Preparation
+### Chapter 2: Preparation and Deployment
 
 - <a href="/pages/3maven.md">Maven Installment</a>
 - <a href="/pages/4m2e-plugin.md">m2e plugin</a>
