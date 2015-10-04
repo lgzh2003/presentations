@@ -30,7 +30,7 @@
 - Smart REST Client：http://git.oschina.net/huangyong/smart-rest-client     
      
      
-<a href="smart-framework.md">Main page</a> <a href="/chapter/chapter1-introduce.md">Next page</a>     
+<a href="/smart-framework.md">Main page</a> <a href="/chapter/chapter1-introduce.md">Next page</a>     
 
 
 
