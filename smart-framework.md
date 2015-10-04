@@ -1,6 +1,5 @@
 # Smart Framework     
 
-<a href="/smart-framework.md">Main page </a> | <a href="/chapter/chapter1-introduce.md">  Next page</a>
 
 ### Chapter 1: Introduce To Smart Frame work
 
