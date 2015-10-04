@@ -1,4 +1,4 @@
-### Chapter 3: Demo-part 2
+### Chapter 3: Let's Try-part 2
 #####4.Write **Enity** Class
 ```sh
 package org.smart4j.sample.entity;
@@ -25,4 +25,4 @@ protected String entityName(Class<T> entityClass)
      
           
           
-<a href="/smart-framework.md"> Main page </a> <a href="/pages/6create-project.md">| Previous page </a> <a href="/pages/8write-service.md">| Next page</a>       
+<a href="/smart-framework.md"> Main page </a> |<a href="/pages/6create-project.md">  Previous page </a> |<a href="/pages/8write-service.md"> Next page</a>       
