@@ -1,4 +1,4 @@
-### Chapter 2: Preparation and Deployment-part 1
+### Chapter 2: Preparation and Deployment-part 2
 ##### m2e plugin
 
 - m2e plugin Installment: Download m2e release from <a href="http://www.eclipse.org/m2e/">eclipse.org</a>
