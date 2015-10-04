@@ -1,6 +1,6 @@
 ### Chapter 3: Let's Try-part 4
 #####6.Write Action Class     
-<a href="/smart-framework.md"> Main page </a> |<a href="/pages/8write-service.md"> Previous page      
+<a href="/smart-framework.md"> Main page </a> |<a href="/pages/8write-service.md">  Previous page</a>  |<a href="/Sample.sql">  Next page</a>     
 
 ```sh
 package org.smart4j.sample.action;
@@ -67,4 +67,4 @@ In Action Class, use JSPh as technic to show the view, we need to write the JSP 
       
      
       
-<a href="/smart-framework.md"> Main page </a> |<a href="/pages/8write-service.md">  Previous page   
+<a href="/smart-framework.md"> Main page </a> |<a href="/pages/8write-service.md">  Previous page</a>  |<a href="/Sample.sql">  Next page</a>   
