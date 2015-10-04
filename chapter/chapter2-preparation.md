@@ -1,4 +1,6 @@
-### Chapt 2: Preparation
+### Chapt 2: Preparation     
+<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter1-introduce.md">| Previous page </a> <a href="/chapter/chapter3-get-started.md">| Next page</a>      
+
 ##### 1.Maven Installment
 
 - Maven Download: Download Maven release from <a href="http://maven.apache.org/download.cgi">Apache official website</a>, and extract to prefered catalog.
@@ -71,7 +73,7 @@ public class HelloMavenWebappServlet extends HttpServlet{
 ```             
 
 
-<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter1-introduce.md">| Previous page </a> <a href="/chapter/chapter3-get-started.md">| Next page</a> 
+
 
 
 
