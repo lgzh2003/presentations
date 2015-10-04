@@ -1,5 +1,5 @@
 ### Chapt 2: Preparation     
-<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter1-introduce.md">| Previous page </a> <a href="/chapter/chapter3-get-started.md">| Next page</a>      
+<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter1-introduce.md">  Previous page </a> |<a href="/chapter/chapter3-get-started.md">  Next page</a>      
 
 ##### 1.Maven Installment
 
@@ -71,7 +71,7 @@ public class HelloMavenWebappServlet extends HttpServlet{
  }
 }
 ```             
-
+<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter1-introduce.md">  Previous page </a> |<a href="/chapter/chapter3-get-started.md">  Next page</a>  
 
 
 
