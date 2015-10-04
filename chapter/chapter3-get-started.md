@@ -1,5 +1,5 @@
 ### Chapt 3: Getting Started     
-<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter2-preparation.md">| Previous page </a>      
+<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter2-preparation.md">  Previous page </a>      
 
 #####1. Create a Maven Web Project    
 The directory structure of the whole project are as follows:
@@ -171,5 +171,5 @@ In Action Class, use JSPh as technic to show the view, we need to write the JSP 
 - user_edit.jsp      
 
     
-<a href="smart-framework.md"> Main page </a> <a href="/chapter/chapter2-preparation.md">| Previous page </a> 
+<a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter2-preparation.md">  Previous page </a>  
 
