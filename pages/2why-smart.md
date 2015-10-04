@@ -1,6 +1,5 @@
 ##### Why is SMART      
-<a href="smart-framework.md"> Main page </a> <a href="/pages/2why-smart.md">| Previous page </a> <a href="/pages/4m2e-plugin.md">| Next page</a>     
-
+  
 1.Fully Achieve "front end and back end separation"   
 
 - Clients can use HTML or JSP as a view template
