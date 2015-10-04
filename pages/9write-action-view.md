@@ -1,4 +1,6 @@
-#####6.Write Action Class
+#####6.Write Action Class     
+<a href="smart-framework.md"> Main page </a> <a href="/pages/8write-service.md">| Previous page      
+
 ```sh
 package org.smart4j.sample.action;
 
@@ -60,4 +62,8 @@ In Action Class, use JSPh as technic to show the view, we need to write the JSP 
 - user.jsp
 - user_list.jsp
 - user_create.jsp
-- user_edit.jsp
+- user_edit.jsp     
+      
+     
+      
+<a href="smart-framework.md"> Main page </a> <a href="/pages/8write-service.md">| Previous page   
