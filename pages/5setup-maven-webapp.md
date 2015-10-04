@@ -1,4 +1,4 @@
-### Chapter 2: Preparation and Deployment-part 2
+### Chapter 2: Preparation and Deployment-part 3
 ##### Set up Maven Webapp     
 <a href="smart-framework.md"> Main page </a> <a href="/pages/4m2e-plugin.md">| Previous page </a> <a href="/pages/6create-project.md">| Next page</a> 
 
