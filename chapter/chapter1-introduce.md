@@ -1,4 +1,6 @@
-### Chapt 1: Introduce
+### Chapt 1: Introduce      
+<a href="smart-framework.md">Main page </a> <a href="/chapter/chapter2-preparation.md">| Next page</a>      
+
 ##### What is SMART
 Smart provides a lightweight Java web framework and some libraries (plugins and modules). The framework includes [IOC](https://en.wikipedia.org/wiki/International_Olympic_Committee), [AOP](https://en.wikipedia.org/wiki/Advanced_oxidation_process), [DAO](http://www.webopedia.com/TERM/D/DAO.html), [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping),[MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) technologies, and the plugins can enhance to the framework and the modules can be reuseful for any other applications. Smart can improve your work efficiency and make your development easy.   
 ![Smart Framework](http://static.oschina.net/uploads/space/2013/1008/122053_f8sG_223750.png)
@@ -30,4 +32,7 @@ applications using a MVC design: The Model represents the application core (for 
 
 - Face to small and medium-scale Web-based applications
 - New users can easily adapt to the framework
-- Core has good customization and plug-ins is easy to expand
+- Core has good customization and plug-ins is easy to expand      
+       
+            
+<a href="smart-framework.md">Main page </a> <a href="/chapter/chapter2-preparation.md">| Next page</a> 
