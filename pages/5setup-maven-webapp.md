@@ -1,6 +1,6 @@
 ### Chapter 2: Preparation and Deployment-part 3
 ##### Set up Maven Webapp     
-<a href="/smart-framework.md"> Main page </a> <a href="/pages/4m2e-plugin.md">| Previous page </a> <a href="/pages/6create-project.md">| Next page</a> 
+<a href="/smart-framework.md"> Main page </a> |<a href="/pages/4m2e-plugin.md">  Previous page </a>| <a href="/pages/6create-project.md">  Next page</a> 
 
 - Maven webapp：File>New>Maven Project>Next Archetype, choose maven-archetype-webapp,go next,fill in tables，finish      
 
@@ -50,4 +50,4 @@ public class HelloMavenWebappServlet extends HttpServlet{
      
           
              
-<a href="/smart-framework.md"> Main page </a> <a href="/pages/4m2e-plugin.md">| Previous page </a> <a href="/pages/6create-project.md">| Next page</a> 
+<a href="/smart-framework.md"> Main page </a> |<a href="/pages/4m2e-plugin.md">  Previous page </a>| <a href="/pages/6create-project.md">  Next page</a> 
