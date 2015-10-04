@@ -1,4 +1,4 @@
-### Chapter 1: Introduce To Smart Frame work     
+### Chapter 1: Introduce To Smart Frame work-part2    
 ##### Why is SMART      
   
 1.Fully Achieve "front end and back end separation"   
