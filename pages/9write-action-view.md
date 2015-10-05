@@ -58,7 +58,7 @@ public class UserAction {
 ```
 
 #####7.Write View
-在 Action 中使用了 JSP 作为视图展现技术，需要编写以下 JSP 文件
+
 In Action Class, use JSPh as technic to show the view, we need to write the JSP file as follows:
 - user.jsp
 - user_list.jsp
