@@ -29,7 +29,7 @@
 
      
      
-<a href="/smart-framework.md">Main page </a> | <a href="/chapter/chapter1-introduce.md">  Next page</a>     
+<a href="/smart-framework.md">Main page </a> | <a href="/pages/1what-smart.md">  Next page</a>     
 
 
 
