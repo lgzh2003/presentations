@@ -172,52 +172,6 @@ In Action Class, use JSPh as technic to show the view, we need to write the JSP 
 - user_edit.jsp   
 
      
-#####7.Sample SQL
--- ----------------------------
-
--- Table structure for user
-
--- ----------------------------
-
-DROP TABLE IF EXISTS `user`;
-
-CREATE TABLE `user` (
-  `id` bigint(20) NOT NULL AUTO_INCREMENT,
-  `username` varchar(50) DEFAULT NULL,
-  `password` varchar(100) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
-
--- ----------------------------
-
--- Records of user
-
--- ----------------------------
-
-INSERT INTO `user` VALUES ('1', 'admin', '$shiro1$SHA-256$500000$vEgQXP9//FEW/4AKvslZkQ==$5G2JPj8umTRl9rf7zc7t9V2ke7a2sgNPGIlqJyqh/EE=');
-
-INSERT INTO `user` VALUES ('2', 'user1', '$shiro1$SHA-256$500000$O9SQvpVkb1QV9PDqxGK0iw==$zeTa7vzTiluSlfUGfJihHvyAsE7Kd1nCIM/pyc9N0W8=');
-
--- ----------------------------
-
--- Table structure for product
-
--- ----------------------------
-
-DROP TABLE IF EXISTS `product`;
-
-CREATE TABLE `product` (
-  `id` bigint(20) NOT NULL AUTO_INCREMENT,
-  `product_type_id` bigint(20) NOT NULL,
-  `name` varchar(100) NOT NULL,
-  `code` char(5) NOT NULL,
-  `price` int(10) NOT NULL,
-  `description` text,
-  `picture` varchar(100),
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
-
-
 
     
 <a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter2-preparation.md">  Previous chapter </a> |<a href="/Sample.sql">  Check the sql file </a>  
