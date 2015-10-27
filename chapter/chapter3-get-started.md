@@ -1,8 +1,16 @@
 ### Chapter 3: Let's try    
 <a href="/smart-framework.md"> Main page </a> |<a href="/chapter/chapter2-preparation.md">  Previous chapter </a>
 |<a href="/Sample.sql">  Check the sql file </a> 
-
-#####1. Create a Maven Web Project    
+#####1.Key Thing Explain
+Smart framework package structure and dependencies jar package is shown in Figure:                
+- Action: contains an Action interface and the AbstractAction abstract class, developers can inherit and implement the interface in two ways to the development of the Action component                         
+- common: contains a SmartConstant-class, which defines the literal used in the framework of the Smart         
+- config: contains the the multiple * Define.java file and ConfigResolver.java the file * Define.java package profile data ConfigResolver.java responsible for parsing the configuration file                         
+- exception: defined in the framework of all exception types                     
+- forwarder: defines a Forwarder interface and default implementation                     
+- mapping: defines more than one match class is responsible for finding the Action and ActionDefine              
+- servlet: ActionServlet controller class, sub-package defined in the helper RequestProcessor and its default     - The util: defines various tools.                  
+#####2.Create a Maven Web Project    
 The directory structure of the whole project are as follows:
 ```sh
 smart-sample/
@@ -22,7 +30,7 @@ org/
 　　　　　　┗ entity/
 　　　　　　┗ service/
 ```
-#####2.Configuring **Maven** Dependency     
+#####3.Configuring **Maven** Dependency     
 Edit pom.xml file, Add smart-framework dependency:
 ```sh
 <dependency>
@@ -31,7 +39,7 @@ Edit pom.xml file, Add smart-framework dependency:
     <version>[Version Number]</version>
 </dependency>
 ```
-#####3.Edit **Smart** Configuration:
+#####4.Edit **Smart** Configuration:
 ```sh
 smart.framework.app.base_package=org.smart4j.sample
 smart.framework.app.home_page=/users
@@ -40,7 +48,7 @@ smart.framework.jdbc.url=jdbc:mysql://localhost:3306/smart-sample
 smart.framework.jdbc.username=root
 smart.framework.jdbc.password=root
 ```
-#####4.Write **Enity** Class
+#####5.Write **Enity** Class
 ```sh
 package org.smart4j.sample.entity;
 import org.smart4j.framework.orm.annotation.Entity;
@@ -52,7 +60,7 @@ public class User {
     // getter/setter
 }
 ```
-#####5.Write Service Interface and Implementation
+#####6.Write Service Interface and Implementation
 - Service Interface
 ```sh
 package org.smart4j.sample.service;
@@ -108,7 +116,7 @@ public class UserServiceImpl implements UserService {
     }
 }
 ```
-#####6.Write Action Class
+#####7.Write Action Class
 ```sh
 package org.smart4j.sample.action;
 
@@ -163,7 +171,7 @@ public class UserAction {
     }
 }
 ```
-#####7.Write View
+#####8.Write View
 In Action I use JSP technic，and the JSP file will be as follows
 In Action Class, use JSPh as technic to show the view, we need to write the JSP file as follows:
 - user.jsp
