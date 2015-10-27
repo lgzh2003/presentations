@@ -9,7 +9,8 @@ Smart framework package structure and dependencies jar package is shown in Figur
 - exception: defined in the framework of all exception types                     
 - forwarder: defines a Forwarder interface and default implementation                     
 - mapping: defines more than one match class is responsible for finding the Action and ActionDefine              
-- servlet: ActionServlet controller class, sub-package defined in the helper RequestProcessor and its default     - The util: defines various tools.                  
+- servlet: ActionServlet controller class, sub-package defined in the helper RequestProcessor and its default     - The util: defines various tools.              
+
 #####2.Create a Maven Web Project    
 The directory structure of the whole project are as follows:
 ```sh
