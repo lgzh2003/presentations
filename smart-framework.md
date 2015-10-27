@@ -1,27 +1,29 @@
 # Smart Framework     
 
 
-### <a href="/chapter/chapter1-introduce.md">Chapter 1</a>: Introduce To Smart Frame work
+### Chapter 1: <a href="/chapter/chapter1-introduce.md">Introduce To Smart Frame work</a>
 
-- <a href="/pages/1what-smart.md">What is SMART</a> 
+- What is SMART
 
-- <a href="/pages/2why-smart.md">Why is SMART</a> 
+- Why is SMART                      
 
-### <a href="/chapter/chapter2-preparation.md">Chapter 2</a>: Preparation and Deployment
+- What is Special
 
-- <a href="/pages/3maven.md">Maven Installment</a>
-- <a href="/pages/4m2e-plugin.md">m2e plugin</a>
-- <a href="/pages/5setup-maven-webapp.md">Set up Maven Webapp</a>
+### Chapter 2: <a href="/chapter/chapter2-preparation.md">Preparation and Deployment</a>
+
+- Maven Installment
+- m2e plugin
+- Set up Maven Webapp
 
 
-### <a href="chapter3-get-started.md">Chapter 3</a>: Let's Try
-- <a href="/pages/6create-project.md">Start a Maven Web Project</a>   
+### Chapter 3: <a href="chapter3-get-started.md">Let's Try</a>
+- Start a Maven Web Project   
 
-- <a href="/pages/7entity-class.md">Write Enity Class</a>
+- Write Enity Class
 
-- <a href="/pages/8write-service.md">Write Service Interface and Implementation</a>
+- Write Service Interface and Implementation
 
-- <a href="/pages/9write-action-view.md">Write Action Class And View</a> 
+- Write Action Class And View
 
 - <a href="/Sample.sql">Sample SQL</a>
     
