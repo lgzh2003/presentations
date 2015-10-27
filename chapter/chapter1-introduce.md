@@ -32,7 +32,16 @@ applications using a MVC design: The Model represents the application core (for 
 
 - Face to small and medium-scale Web-based applications
 - New users can easily adapt to the framework
-- Core has good customization and plug-ins is easy to expand      
+- Core has good customization and plug-ins is easy to expand     
+            
+##### What is Special
+- Mart framework of the overall architecture mimics the Struts1 in Action component design mimics the Struts2. With Struts1, the SMART framework there are the ActionServlet controller, Action components, Forwarder components, Convert components, component calls the process also imitate Struts1. Action components are designed to be multi-case model, and Smart framework decoupling, developers can choose to inherit, implement the interface, custom three ways to define the Action component. Convert component in the initialization Struts1 imitate, imitate in the configuration Struts2.                        
+                                 
+- Smart frame profile data package to imitate the Spring example the configuration file <Action /> in the data will be Java ActionDefine package, and so on.                                   
+                                                                                  
+- Exception capture mechanism in the framework of the Samrt also mimic the spring, will be converted into a run-time exception, re-throw.                   
+                  
+- At present, Smart framework MVC trunk, compared with Struts1, not validate, compared with Struts2 interceptor, plus late. Smart framework, profile configuration is almost Struts1.
        
             
 <a href="/smart-framework.md">Main page </a> |<a href="/chapter/chapter2-preparation.md">  Next chapter</a>    
