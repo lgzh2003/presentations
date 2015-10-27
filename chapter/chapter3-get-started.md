@@ -3,13 +3,20 @@
 |<a href="/Sample.sql">  Check the sql file </a> 
 #####1.Key Thing Explain
 Smart framework package structure and dependencies jar package is shown in Figure:                
-- Action: contains an Action interface and the AbstractAction abstract class, developers can inherit and implement the interface in two ways to the development of the Action component                         
-- common: contains a SmartConstant-class, which defines the literal used in the framework of the Smart         
+- Action: contains an Action interface and the AbstractAction abstract class, developers can inherit and implement the interface in two ways to the development of the Action component                 
+                                    
+- common: contains a SmartConstant-class, which defines the literal used in the framework of the Smart          
+                          
 - config: contains the the multiple * Define.java file and ConfigResolver.java the file * Define.java package profile data ConfigResolver.java responsible for parsing the configuration file                         
-- exception: defined in the framework of all exception types                     
-- forwarder: defines a Forwarder interface and default implementation                     
-- mapping: defines more than one match class is responsible for finding the Action and ActionDefine              
-- servlet: ActionServlet controller class, sub-package defined in the helper RequestProcessor and its default     - The util: defines various tools.              
+                                 
+- exception: defined in the framework of all exception types                    
+                             
+- forwarder: defines a Forwarder interface and default implementation                         
+                             
+- mapping: defines more than one match class is responsible for finding the Action and ActionDefine          
+                                  
+- servlet: ActionServlet controller class, sub-package defined in the helper RequestProcessor and its default                
+- The util: defines various tools.                                    
 
 #####2.Create a Maven Web Project    
 The directory structure of the whole project are as follows:
